@@ -161,7 +161,7 @@ button:hover{
 
 .detalhes-container img,
 .detalhes-container video {
-    max-width: 70%;
+    max-width: 70rem;
     height: auto;
     padding-bottom: 6vh;
 }
